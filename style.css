@@ -1,0 +1,87 @@
+p {}
+#ziggy1 {
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+  font-family: "Lucida Handwriting", cursive;
+}
+#ziggy2 {
+    text-align: left;
+    color: orange;
+    font-size: 35px;
+    font-family: cursive;
+}
+#ziggy3 {
+    text-align: center;
+    color: gold;
+    font-size: 50px;
+}
+#ziggy4 {
+    text-align: left;
+    color: green;
+    font-size: 25px;
+    font-family: cursive;
+}
+#ziggy5 {
+    text-align: right;
+    color: purple;
+    font-size: 40px
+}
+#ziggy6 {
+    text-align: right;
+    color: cyan;
+    font-size: 80px;
+      font-family: fantasy;
+}
+#ziggy7 {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+      font-family: sans-serif;
+}
+#ziggy8 {
+    text-align: left;
+    color: coral;
+    font-size: 20px;
+  font-family: "Helvetica", sans-serif;
+}
+#title {
+    text-align: center;
+    color: pink;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title2 {
+    text-align: center;
+    color: purple;
+    font-size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title3 {
+    text-align: center;
+    color: magenta;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#jokebooks {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+#jokebooks td, #jokebooks th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#jokebooks tr:nth-child(even){background-color: #f2f2f2;}
+
+#jokebooks tr:hover {background-color: pink;}
+
+#jokebooks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #de43a5;
+  color: white;
+}
